@@ -1,0 +1,201 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+.title {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    color: #e4dad1;
+    margin: 0;
+}
+.rtp {
+    display: flex;
+    justify-content: space-around;
+    padding: 25pzx;
+    padding-top: 0;
+    background: linear-gradient(to top, rgba(205, 65, 43, 0.2), #111);
+    padding-bottom: 0;
+    height: 7.5 vh;
+}
+
+.photo {
+    background-image: url("https://ccdn.g-portal.com/header_cover_RUS_Tconsole_a048c667ac.jpg");
+    font-family: "Bebas Neue", sans-serif;
+}
+.tyc {
+    width: 39%;
+    padding: 45px;
+    margin-left: 13%;
+}
+.cnopci {
+    color: #e4dad1;
+    background-color: #cd412b;
+    padding: 8px 16px;
+    border: 2px solid #cd412b;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 24px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.cnopci2 {
+    color: #e4dad1;
+    padding: 8px 16px;
+    background-color: #2a2928;
+    border: 2px solid #4c4946;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 24px;
+    text-decoration: none;
+}
+.cnopci:hover {
+    background-color: #e02a2a;
+}
+.cnopci2:hover {
+    background-color: #5d5d5d;
+    border-color: #5d5d5d;
+}
+body {
+    margin: 0;
+}
+.ert:hover {
+    transform: scale(1.1);
+}
+
+.title li {
+    padding: 12px 24px 10px;
+    font-size: 1.3rem;
+}
+.title li:hover {
+    border-bottom: 2px solid #151413;
+    color: white;
+    background-color: rgba(234, 10, 10, 0.24);
+}
+#qwe {
+    background-color: #cd412b;
+    border-bottom: 2px solid rgba(0, 0, 0, 0);
+    transition: 0.3s;
+}
+#qwe:hover {
+    border-bottom: 2px solid black;
+    background-color: #b92d18;
+    color: white;
+}
+.ert {
+    padding: 2px;
+}
+.title a {
+    text-decoration: none;
+    color: white;
+}
+.sec2 {
+    background-image: url("https://files.facepunch.com/Alistair/107/08/2025/2X00/rust_hardercore-hero-image-v2-1080.jpg");
+    height: 75vh;
+    width: 70%;
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;
+    transition: 0.3s;
+}
+.sec2:hover {
+    transform: scale(1.03);
+}
+.svag {
+    padding: 64px 0;
+    background-color: black;
+}
+.fbi {
+    text-align: center;
+    background-color: #1f1f1f;
+    padding: 64px;
+    width: 48%;
+    margin: 0 auto;
+    transform: translateY(-30%);
+    height: 285px;
+}
+.farm {
+    color: #e4dad1;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 18px;
+}
+.serka {
+    color: #e4dad1;
+    background-color: #cd412b;
+    margin: 0;
+    padding: 2px 4px 0 4px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.reid {
+    padding: 2px 4px 0 4px;
+    background-color: #cd412b;
+    color: #e4dad1;
+    align-content: center;
+    font-family: "Bebas Neue", sans-serif;
+}
+.pty {
+    display: flex;
+    justify-content: space-around;
+    width: 17%;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+.kalasik {
+    background-color: #cd412b;
+    padding: 8px 16px 8px 16px;
+    color: #fff;
+    font-size: 20px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.kibitka {
+    color: #bab1a8;
+    margin-bottom: 60px;
+    font-size: 18px;
+}
+.fbi:hover {
+    background-color: rgb(36, 36, 36);
+}
+.iphon {
+    background-color: #cd412b;
+    width: 10%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-size: 0.8 rem;
+    color: #e4dad1;
+    transform: translate(200%, 80%);
+    height: 5vh;
+}
+.iphon h2 {
+    margin: 0;
+}
+.androed {
+    width: 100%;
+    transform: rotate(180deg);
+}
+.pc {
+    background-color: #1b1b1b;
+    color: #e4dad1;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+.reg{
+  font-size:40px;
+  font-weight: 200;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 60px
+
+
+}
+.qwe{
+    font-size: 25px;
+    font-weight: 100
+}
+.noyt{
+padding: 10px;
+    height: 25vh
+}
