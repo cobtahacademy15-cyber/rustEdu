@@ -7,6 +7,7 @@
     color: #e4dad1;
     margin: 0;
 }
+
 .rtp {
     display: flex;
     justify-content: space-around;
@@ -180,25 +181,75 @@ body {
     color: #e4dad1;
     text-align: center;
     font-family: "Bebas Neue", sans-serif;
-
 }
-.reg{
-  font-size:40px;
-  font-weight: 200;
+.reg {
+    font-size: 40px;
+    font-weight: 200;
     width: 50%;
     margin: 0 auto;
-    margin-top: 60px
-
-
+    margin-top: 60px;
 }
-.qwe{
+.qwe {
     font-size: 25px;
-    font-weight: 100
+    font-weight: 100;
 }
-.noyt{
-padding: 10px;
-    height: 25vh
+.noyt {
+    padding: 10px;
+    height: 25vh;
 }
-.ogyrcic{
-   background-image: url(https://files.facepunch.com/lewis/1b0311b1/twitch-bg.jpg)
+.sec3 {
+    background-image: url(https://files.facepunch.com/lewis/1b0311b1/twitch-bg.jpg);
+}
+.ogyrcic {
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    padding: 120px;
+}
+.tex1 {
+    font-size: 110px;
+    color: #fff;
+    font-weight: 100;
+    margin: 0;
+}
+.tex2 {
+    font-size: 16;
+    font-family: "Open Sans", sans-serif;
+    color: #c8bbdc;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+.button1 {
+    background-color: #cd412b;
+    color: #fff;
+    padding: 8px 20px;
+    font-family: "Bebas Neue", sans-serif;
+    border: 0;
+    font-size: 28px;
+}
+.button1:hover {
+    background-color: #b92d18;
+}
+s.tex3 {
+    font-size: 128px;
+    color: #e4dad1;
+    font-weight: 900;
+    font-family: "Bebas Neue", sans-serif;
+    margin: 0;
+    transform: translateY(30px);
+}
+.tex4 {
+    color: #bab1a8;
+    font-size: 64px;
+    font-weight: 400;
+    font-family: "Bebas Neue", sans-serif;
+    margin: 0;
+}
+.tex5 {
+    color: #bab1a8;
+    font-family: "Open Sans", sans-serif;
+}
+.sec4 {
+    background-color: #151413;
+    padding: 180px 0 0 280px;
+
 }
