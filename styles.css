@@ -253,3 +253,10 @@ body {
     padding: 180px 0 0 280px;
 
 }
+.button2{
+    background-color: #cd412b;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 1.25rem;
+}
