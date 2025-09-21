@@ -253,6 +253,10 @@ body {
     padding: 180px 0 0 280px;
 
 }
+.photo2{
+    width: 50%;
+    margin-left: 50%;
+}
 .button2{
     background-color: #cd412b;
     color: #fff;
