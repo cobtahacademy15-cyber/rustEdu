@@ -247,20 +247,43 @@ body {
 .tex5 {
     color: #bab1a8;
     font-family: "Open Sans", sans-serif;
+    line-height: 1.7;
 }
 .sec4 {
     background-color: #151413;
-    padding: 180px 0 0 280px;
-
+    padding: 100px 300px 0 280px;
+    display: flex;
+    height: 55vh;
 }
 .photo2{
-    width: 50%;
-    margin-left: 50%;
+    width: 45%;
+    height: 100%
+
 }
+
+
 .button2{
     background-color: #cd412b;
     color: #fff;
     padding: 0.5rem 1rem;
     font-family: "Bebas Neue", sans-serif;
     font-size: 1.25rem;
+}
+.section-transperent{
+    background-image: url("https://files.facepunch.com/lewis/1b2411b1/image-section.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+    background-attachment: fixed;
+}
+.section5{
+    background-color: #1f1f1f;
+    text-align: center;
+
+}
+.text-h3-sec5{
+    color: #e4dad1;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
 }
