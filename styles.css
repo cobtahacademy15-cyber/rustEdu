@@ -286,4 +286,35 @@ body {
     font-family: "Bebas Neue", sans-serif;
     font-size: 40px;
     font-weight: 400;
+    margin: 0;
+}
+.text-foteer{
+    color: #bab1a8;
+    font-family:"Bebas Neue", sans-serif;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 50px;
+}
+.input-footer{
+    background-color: rgba(0, 0, 0, .2);
+    border: 2px solid transparent;
+    width: 33%;
+    height: 40px;
+    font-size: 16px;
+    padding: 0 16px;
+}
+.button-sub{
+    color: #fff;
+    background-color: #cd412b;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    padding: 8px 16px;
+    border: 0;
+    font-weight: 800;
+}
+.henyznii{
+    background-image: url('https://files.facepunch.com/lewis/1b0311b1/bar-dark.svg');
+    transform: rotate(180deg);
+    height: 100px;
+
 }
