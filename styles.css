@@ -308,6 +308,7 @@ body {
     padding: 8px 16px;
     border: 0;
     font-weight: 800;
+
 }
 .PHOTO2 img {
     width: 100%;
@@ -318,26 +319,30 @@ body {
     text-align: center;
     padding-top: 70px;
 }
-.footer-list a{
+.footer-list a {
     text-decoration: none;
     color: #bab1a8;
     font-family: "Bebas Neue", sans-serif;
-     font-size: 20px;
-    margin-right: 23px
+    font-size: 20px;
+    margin-right: 23px;
 }
-.footer-list{
+.footer-list {
     margin-top: 65px;
+    margin-bottom: 100px;
 }
-.footer-list a:hover{
- color:#e4dad1
+.footer-list a:hover {
+    color: #e4dad1;
 }
-.p-footer{
-    color: rgba(186, 177, 168, .6);
+.p-footer {
+    color: rgba(186, 177, 168, 0.6);
     font-size: 1.1rem;
-    letter-spacing: .1rem;
+    letter-spacing: 0.1rem;
     font-family: "Bebas Neue", sans-serif;
-
 }
-.icons-footer{
-
+.icons-footer {
+    display: flex;
+    justify-content: space-around;
 }
+
+
+

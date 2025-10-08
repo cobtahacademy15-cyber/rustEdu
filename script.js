@@ -1,6 +1,4 @@
-let numButtonClicks = 0;
-function buttonClicked() {
-    numButtonClicks = numButtonClicks + 1;
-    document.getElementById("mainDiv").textContent =
-        "Button Clicked times: " + numButtonClicks;
+function inpyt() {
+    let inpytp = document.getElementById("id-impyt").value;
+    document.getElementById("impyt-id").textContent = inpytp;
 }
