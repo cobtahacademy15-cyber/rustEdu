@@ -13,7 +13,7 @@
     justify-content: space-around;
     padding: 25pzx;
     padding-top: 0;
-    background: linear-gradient(to top, rgba(205, 65, 43, 0.2), #111);
+    background: #151413;
     padding-bottom: 0;
     height: 7.5 vh;
 }
@@ -308,7 +308,6 @@ body {
     padding: 8px 16px;
     border: 0;
     font-weight: 800;
-
 }
 .PHOTO2 img {
     width: 100%;
@@ -343,6 +342,19 @@ body {
     display: flex;
     justify-content: space-around;
 }
+.video-nivs {
+    position: absolute;
+    z-index: -100;
+    width: 100%;
+}
+#heder-photo{
+    background: transparent;
+}
+.photo-v-video{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.section1-nivs{
 
 
-
+}
